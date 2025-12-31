@@ -25,7 +25,7 @@ End-to-end analytics project on **Los Angeles crime incidents** using a **Medall
 ---
 
 ## Dataset
-- **Source:** LA Open Data (Los Angeles Police Department crime incidents)
+- **Source:** LA Open Data (Los Angeles Police Department crime incidents) https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/about_data
 - **Granularity:** Incident-level records (date/time, location, crime code/desc, area, weapon, victim info, status, etc.)
 - **Note:** Dataset may include missing/invalid coordinates, inconsistent text fields, and schema drift over time.
 
